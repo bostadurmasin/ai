@@ -2,57 +2,57 @@
   {
     "id": 1,
     "name": "ChatGPT",
-    "description": "OpenAI'nin metin yazma, kodlama ve analiz yapabilen endüstri lideri üretken dil modeli.",
+    "description": "OpenAI'nin metin yazma, kodlama ve karmaşık analizler yapabilen endüstri lideri üretken dil modeli.",
     "category": "Sohbet Botu",
     "tags": ["yazarlık", "asistan", "üretkenlik"],
     "rating": 4.9,
     "url": "https://chat.openai.com",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/openai.com"
   },
   {
     "id": 2,
-    "name": "Midjourney V6",
+    "name": "Midjourney",
     "description": "Discord üzerinden çalışan, eşsiz bir gerçekçilikte sanatsal görseller üreten AI modeli.",
     "category": "Görsel Üretim",
     "tags": ["tasarım", "sanat", "görsel"],
     "rating": 4.8,
     "url": "https://midjourney.com",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/midjourney.com"
   },
   {
     "id": 3,
     "name": "Claude 3.5 Sonnet",
-    "description": "Anthropic tarafından geliştirilen, devasa bağlam penceresi ve kodlama yeteneğiyle öne çıkan model.",
+    "description": "Anthropic tarafından geliştirilen, devasa bağlam penceresi ve insan benzeri doğal yazımıyla öne çıkan model.",
     "category": "Sohbet Botu",
-    "tags": ["kodlama", "analiz", "hızlı"],
+    "tags": ["kodlama", "analiz", "doğal"],
     "rating": 4.9,
     "url": "https://claude.ai",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/anthropic.com"
   },
   {
     "id": 4,
     "name": "Suno AI",
-    "description": "Sadece metin komutlarıyla saniyeler içinde vokalli ve enstrümantal müzikler üreten araç.",
+    "description": "Sadece metin komutlarıyla saniyeler içinde vokalli ve enstrümantal stüdyo kalitesinde müzikler üretir.",
     "category": "Müzik & Ses",
     "tags": ["müzik", "ses", "eğlence"],
     "rating": 4.7,
     "url": "https://suno.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/suno.com"
   },
   {
     "id": 5,
     "name": "Runway Gen-3",
-    "description": "Metinden veya görselden yüksek kaliteli ve sinematik videolar üretebilen yapay zeka.",
+    "description": "Metinden veya görselden yüksek kaliteli ve sinematik videolar üretebilen yapay zeka video motoru.",
     "category": "Video & Animasyon",
     "tags": ["video", "sinema", "animasyon"],
-    "rating": 4.6,
+    "rating": 4.8,
     "url": "https://runwayml.com",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/runwayml.com"
   },
   {
     "id": 6,
@@ -63,18 +63,18 @@
     "rating": 4.8,
     "url": "https://perplexity.ai",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/perplexity.ai"
   },
   {
     "id": 7,
     "name": "ElevenLabs",
-    "description": "Metni inanılmaz derecede doğal ve insansı bir sese (Text-to-Speech) dönüştüren platform.",
+    "description": "Metni inanılmaz derecede doğal, duygulu ve insansı bir sese dönüştüren lider seslendirme platformu.",
     "category": "Müzik & Ses",
     "tags": ["seslendirme", "podcast", "dublaj"],
     "rating": 4.9,
     "url": "https://elevenlabs.io",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/elevenlabs.io"
   },
   {
     "id": 8,
@@ -82,21 +82,21 @@
     "description": "Tek bir prompt ile saniyeler içinde profesyonel sunumlar, web siteleri ve belgeler hazırlar.",
     "category": "Sunum & Tasarım",
     "tags": ["sunum", "slayt", "üretkenlik"],
-    "rating": 4.5,
+    "rating": 4.6,
     "url": "https://gamma.app",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/gamma.app"
   },
   {
     "id": 9,
     "name": "GitHub Copilot",
-    "description": "Yazılımcılar için kod tamamlama, hata ayıklama ve mimari öneriler sunan AI asistanı.",
+    "description": "Yazılımcılar için kod tamamlama, hata ayıklama ve mimari öneriler sunan efsanevi AI asistanı.",
     "category": "Kodlama",
     "tags": ["yazılım", "developer", "ide"],
     "rating": 4.8,
     "url": "https://github.com/features/copilot",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/github.com"
   },
   {
     "id": 10,
@@ -104,10 +104,10 @@
     "description": "Notion çalışma alanınıza entegre edilmiş; yazan, özetleyen ve beyin fırtınası yapan asistan.",
     "category": "Üretkenlik",
     "tags": ["not", "planlama", "ofis"],
-    "rating": 4.6,
-    "url": "https://notion.so/ai",
+    "rating": 4.7,
+    "url": "https://notion.so",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/notion.so"
   },
   {
     "id": 11,
@@ -118,18 +118,18 @@
     "rating": 4.7,
     "url": "https://leonardo.ai",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/leonardo.ai"
   },
   {
     "id": 12,
     "name": "Cursor",
-    "description": "Yapay zeka için sıfırdan inşa edilmiş, GPT-4 ve Claude destekli efsanevi kod editörü.",
+    "description": "Yapay zeka için sıfırdan inşa edilmiş, kod tabanınızı okuyan GPT-4 ve Claude destekli kod editörü.",
     "category": "Kodlama",
     "tags": ["yazılım", "editör", "kod"],
     "rating": 4.9,
     "url": "https://cursor.sh",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/cursor.sh"
   },
   {
     "id": 13,
@@ -140,29 +140,29 @@
     "rating": 4.6,
     "url": "https://heygen.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/heygen.com"
   },
   {
     "id": 14,
-    "name": "Canva Magic Studio",
-    "description": "Canva'nın içine entegre edilmiş, metinden resme, tasarımdan animasyona her şeyi yapan AI seti.",
+    "name": "Canva Magic",
+    "description": "Canva'nın içine entegre edilmiş, metinden resme, tasarımdan animasyona her şeyi yapan araç seti.",
     "category": "Sunum & Tasarım",
     "tags": ["grafik", "sosyal medya", "canva"],
-    "rating": 4.7,
+    "rating": 4.8,
     "url": "https://canva.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/canva.com"
   },
   {
     "id": 15,
     "name": "Poe",
-    "description": "Farklı yapay zeka modellerini (GPT, Claude, Llama vb.) tek bir platformda kullanma imkanı sunar.",
+    "description": "Farklı yapay zeka modellerini (GPT, Claude, Llama vb.) tek bir abonelikte kullanma imkanı sunar.",
     "category": "Sohbet Botu",
     "tags": ["aggregator", "chat", "araçlar"],
     "rating": 4.5,
     "url": "https://poe.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/poe.com"
   },
   {
     "id": 16,
@@ -173,7 +173,7 @@
     "rating": 4.8,
     "url": "https://magnific.ai",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/magnific.ai"
   },
   {
     "id": 17,
@@ -184,29 +184,29 @@
     "rating": 4.6,
     "url": "https://lumalabs.ai",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/lumalabs.ai"
   },
   {
     "id": 18,
-    "name": "CapCut AI",
-    "description": "Video düzenleme sürecini otomatikleştiren, altyazı ve efekt ekleyen popüler araç.",
+    "name": "CapCut",
+    "description": "Video düzenleme sürecini otomatikleştiren, altyazı ve efekt ekleyen popüler kurgu aracı.",
     "category": "Video & Animasyon",
     "tags": ["kurgu", "tiktok", "reels"],
     "rating": 4.7,
     "url": "https://capcut.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/capcut.com"
   },
   {
     "id": 19,
-    "name": "Grammarly GO",
-    "description": "Yazılarınızı sadece dilbilgisi açısından düzeltmekle kalmaz, tonunu ayarlar ve sizin yerinize yazar.",
+    "name": "Grammarly",
+    "description": "Yazılarınızı sadece dilbilgisi açısından düzeltmekle kalmaz, tonunu ayarlar ve yeniden yazar.",
     "category": "Yazarlık",
     "tags": ["dilbilgisi", "editör", "ingilizce"],
     "rating": 4.6,
     "url": "https://grammarly.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/grammarly.com"
   },
   {
     "id": 20,
@@ -217,61 +217,116 @@
     "rating": 4.7,
     "url": "https://krea.ai",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/krea.ai"
   },
   {
     "id": 21,
-    "name": "Udio AI",
-    "description": "Suno'ya güçlü bir alternatif olan, özellikle ses kalitesi ve enstrüman ayrımında iddialı müzik AI.",
+    "name": "Udio",
+    "description": "Suno'ya alternatif olan, özellikle ses kalitesi ve enstrüman ayrımında iddialı yapay zeka radyosu.",
     "category": "Müzik & Ses",
     "tags": ["müzik", "ses", "üretim"],
     "rating": 4.7,
     "url": "https://udio.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/udio.com"
   },
   {
     "id": 22,
     "name": "Opus Clip",
-    "description": "Uzun yatay videolarınızı yapay zeka ile otomatik kırparak viral olacak TikTok/Reels videoları yapar.",
+    "description": "Uzun yatay videolarınızı yapay zeka ile otomatik kırparak viral olacak dikey videolar yapar.",
     "category": "Video & Animasyon",
     "tags": ["sosyal medya", "kırpma", "viral"],
     "rating": 4.8,
     "url": "https://opus.pro",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/opus.pro"
   },
   {
     "id": 23,
     "name": "Writesonic",
-    "description": "SEO uyumlu blog yazıları, reklam metinleri ve ürün açıklamaları üreten pazarlama odaklı AI.",
+    "description": "SEO uyumlu blog yazıları, reklam metinleri ve ürün açıklamaları üreten pazarlama AI'si.",
     "category": "Yazarlık",
     "tags": ["seo", "pazarlama", "metin"],
     "rating": 4.5,
     "url": "https://writesonic.com",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/writesonic.com"
   },
   {
     "id": 24,
     "name": "Beautiful.ai",
-    "description": "İçeriğinizi girdiğinizde tasarımı sizin yerinize otomatik yapan akıllı sunum aracı.",
+    "description": "İçeriğinizi girdiğinizde tasarımı sizin yerinize otomatik ayarlayan akıllı sunum aracı.",
     "category": "Sunum & Tasarım",
     "tags": ["sunum", "slayt", "iş"],
-    "rating": 4.5,
+    "rating": 4.6,
     "url": "https://beautiful.ai",
     "featured": false,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/beautiful.ai"
   },
   {
     "id": 25,
-    "name": "Gemini Advanced",
-    "description": "Google'ın ekosistemiyle tam entegre çalışan, büyük veri analizinde ustalaşmış AI modeli.",
+    "name": "Gemini",
+    "description": "Google'ın ekosistemiyle tam entegre çalışan, büyük veri ve belge analizinde ustalaşmış AI modeli.",
     "category": "Sohbet Botu",
     "tags": ["google", "analiz", "asistan"],
+    "rating": 4.7,
+    "url": "https://google.com",
+    "featured": false,
+    "image_url": "https://logo.clearbit.com/google.com"
+  },
+  {
+    "id": 26,
+    "name": "Jasper",
+    "description": "Kurumsal markalar için marka sesini taklit edebilen, güçlü kampanyalar üreten pazarlama asistanı.",
+    "category": "Yazarlık",
+    "tags": ["kurumsal", "kampanya", "içerik"],
+    "rating": 4.6,
+    "url": "https://jasper.ai",
+    "featured": false,
+    "image_url": "https://logo.clearbit.com/jasper.ai"
+  },
+  {
+    "id": 27,
+    "name": "Descript",
+    "description": "Videolarınızı ve podcast'lerinizi tıpkı bir metin belgesi düzenler gibi kesip biçmenizi sağlar.",
+    "category": "Müzik & Ses",
+    "tags": ["podcast", "kurgu", "metin"],
     "rating": 4.8,
-    "url": "https://gemini.google.com",
+    "url": "https://descript.com",
+    "featured": false,
+    "image_url": "https://logo.clearbit.com/descript.com"
+  },
+  {
+    "id": 28,
+    "name": "Synthesia",
+    "description": "Sadece metin yazarak 100'den fazla dilde gerçekçi yapay zeka avatarlarıyla eğitim videoları oluşturur.",
+    "category": "Video & Animasyon",
+    "tags": ["eğitim", "avatar", "sunum"],
+    "rating": 4.7,
+    "url": "https://synthesia.io",
     "featured": true,
-    "image_url": ""
+    "image_url": "https://logo.clearbit.com/synthesia.io"
+  },
+  {
+    "id": 29,
+    "name": "Vercel v0",
+    "description": "Sadece ne istediğinizi tarif ederek saniyeler içinde React ve Tailwind arayüzleri oluşturan UI üreticisi.",
+    "category": "Kodlama",
+    "tags": ["frontend", "ui", "tasarım"],
+    "rating": 4.9,
+    "url": "https://vercel.com",
+    "featured": true,
+    "image_url": "https://logo.clearbit.com/vercel.com"
+  },
+  {
+    "id": 30,
+    "name": "Figma AI",
+    "description": "Tasarım süreçlerini hızlandıran, katmanları isimlendiren ve prototipleri otomatize eden eklenti paketi.",
+    "category": "Sunum & Tasarım",
+    "tags": ["ui", "ux", "tasarım"],
+    "rating": 4.8,
+    "url": "https://figma.com",
+    "featured": false,
+    "image_url": "https://logo.clearbit.com/figma.com"
   }
 ]
